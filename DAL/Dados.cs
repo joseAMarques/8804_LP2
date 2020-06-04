@@ -128,7 +128,6 @@ namespace DAL
         }
 
         #endregion
-
         #region PROFISSAO
         /// <summary>
         /// Conta profissoes
